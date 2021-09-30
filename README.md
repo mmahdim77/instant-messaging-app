@@ -3,11 +3,11 @@ Developed a client-server instant messaging application similar to Telegram that
 
 ## screenshots
 Here are some screenshots from this application:
-![53](https://github.com/mmahdim77/instant-messaging-app/blob/main/screenshots/Sketch%20(53).png)
-![53](https://github.com/mmahdim77/instant-messaging-app/blob/main/screenshots/Sketch%20(54).png)
-![53](https://github.com/mmahdim77/instant-messaging-app/blob/main/screenshots/Sketch%20(55).png)
-![53](https://github.com/mmahdim77/instant-messaging-app/blob/main/screenshots/Sketch%20(56).png)
-![53](https://github.com/mmahdim77/instant-messaging-app/blob/main/screenshots/Sketch%20(61).png)
+![53](/screenshots/Sketch%20(55).png)
+![53](/screenshots/Sketch%20(61).png)
+![53](/screenshots/Sketch%20(56).png)
+![53](/screenshots/Sketch%20(53).png)
+![53](/screenshots/Sketch%20(54).png)
 
 
 
