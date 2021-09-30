@@ -3,11 +3,15 @@ Developed a client-server instant messaging application similar to Telegram that
 
 ## screenshots
 Here are some screenshots from this application:
-![53](/screenshots/Sketch%20(55).png)
-![53](/screenshots/Sketch%20(61).png)
-![53](/screenshots/Sketch%20(56).png)
-![53](/screenshots/Sketch%20(53).png)
-![53](/screenshots/Sketch%20(54).png)
-
-
-
+<p align=center>
+</br>
+<img src="/screenshots/Sketch%20(55).png" width="600">
+</br>
+<img src="/screenshots/Sketch%20(61).png" width="600">
+</br>
+<img src="/screenshots/Sketch%20(56).png" width="600">
+</br>
+<img src="/screenshots/Sketch%20(53).png" width="600">
+</br>
+<img src="/screenshots/Sketch%20(54).png" width="600">
+</p>
